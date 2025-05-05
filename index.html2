@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MethraX</title>
+    <style>
+      body {
+        background-color: black;
+        color: lime;
+        font-family: monospace;
+        text-align: center;
+        padding: 3rem;
+      }
+      h1 {
+        font-size: 3em;
+        margin-bottom: 1rem;
+      }
+      img {
+        width: 200px;
+        margin-top: 2rem;
+      }
+      a.button {
+        display: inline-block;
+        background: red;
+        color: white;
+        padding: 1rem 2rem;
+        text-decoration: none;
+        margin-top: 2rem;
+        font-weight: bold;
+        border-radius: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to MethraX</h1>
+    <p>Underground Energy. Mind Weaponized.</p>
+    <a class="button" href="https://cash.app/$torebackian1874">INVEST NOW</a>
+    <br />
+    <img src="https://i.imgur.com/AXL1obz.png" alt="MethraX Skull">
+  </body>
+</html>
